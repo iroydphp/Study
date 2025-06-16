@@ -1,0 +1,15 @@
+ul {
+   list-style: none;
+   padding: 0;
+}
+a {
+   padding: 0 20px;
+   text-decoration: none;
+   color: #000;
+}
+.active {
+   background-color: salmon;
+   color: #fff;
+   text-decoration: none;
+   padding: 0 20px;
+}
